@@ -124,3 +124,7 @@ docker run --network=host contas-api
 ````
 
 É preciso que o Kafka está conectado na rede.
+
+## Link para o contas-engine
+
+Repositório do `contas-api`: https://github.com/arielalvesdutra/java-contas-engine
